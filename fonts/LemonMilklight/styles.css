@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'LemonMilklight';
+  src: url('LemonMilklight.eot?#iefix') format('embedded-opentype'),  url('LemonMilklight.otf')  format('opentype'),
+	     url('LemonMilklight.woff') format('woff'), url('LemonMilklight.ttf')  format('truetype'), url('LemonMilklight.svg#LemonMilklight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

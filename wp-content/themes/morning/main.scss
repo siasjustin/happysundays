@@ -1,0 +1,43 @@
+.event-listings {
+
+	h2 {
+		color:#FD0000;
+	}
+}
+.image {
+	padding:30% 0;
+	max-width: 100%;
+    background-position: center;
+    background-size: cover;
+    
+}
+.photos {
+	width: 100%;
+    max-width: 1200px;
+    max-height: 550px;
+    .image {
+		width:1200px;
+	}
+	
+}
+.videos {
+	background: rgba(255, 255 , 255, 1);
+    margin-top: 100px;
+    border: solid 1px white;
+	.image {
+		width:800px;
+		display:flex;
+		align-items:center;
+		justify-content:center;
+		img {
+			height:70px;
+			width:70px;
+		}
+	}
+}
+.post-container {
+	margin-top:50px;
+	h1 {
+		
+	}
+}
